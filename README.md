@@ -16,5 +16,5 @@
 ## Awesome Things:
 1. [1Story](http://www.one-story.cn/nazopuzzle/nazo-1.html), 奇思妙想解密过关类游戏
 
-## Blog about Life
+## Blog about Thinking and Mind
 1. [编程随想](https://program-think.blogspot.com/), 看点别样社会现实
