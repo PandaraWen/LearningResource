@@ -10,6 +10,7 @@
 
 ## Awesome Open-source Apps:
 1. [Coding-iPad](https://coding.net/u/coding/p/Coding-iPad/git), Coding 的官方 iPad 客户端
+2. [TSWeChat](https://github.com/hilen/TSWeChat), 用 Swift 编写的第三方微信客户端
 
 ## Awesome Things:
 1. [1Story](http://www.one-story.cn/nazopuzzle/nazo-1.html), 奇思妙想解密过关类游戏
