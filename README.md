@@ -19,5 +19,8 @@
 ## Awesome Things:
 1. [1Story](http://www.one-story.cn/nazopuzzle/nazo-1.html), 奇思妙想解密过关类游戏
 
+## Awesome Book:
+1. [编程随想收藏的书籍](https://github.com/programthink/books), 编程随想收藏的大量有趣电子版书籍，中国政治类占比较大
+
 ## Blog about Thinking and Mind
 1. [编程随想](https://program-think.blogspot.com/), 看点别样社会现实
