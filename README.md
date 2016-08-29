@@ -6,7 +6,7 @@
 2. [BENEDIKT TERHECHTE's Blog](https://appventure.me/2015/08/20/swift-pattern-matching-in-detail/), 8年的 OC 开发经验，现在转向 Swift, 较多 Swift 相关文章
 3. [GFW技术评论](http://gfwrev.blogspot.jp/), 深入浅出 GFW
 4. [Crunchy Development](http://alisoftware.github.io/), CocoaPods 核心组成员之一, 主要分项 iOS 开发相关
-
+5. [StableKernel](http://blog.stablekernel.com/), 技术文章居多, 同时也是一家专注于技术领域的小型投资公司
 
 ## iOS Reverse Engineering:
 1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
