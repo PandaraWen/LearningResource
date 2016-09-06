@@ -9,6 +9,7 @@
 5. [StableKernel](http://blog.stablekernel.com/), 技术文章居多, 同时也是一家专注于技术领域的小型投资公司
 6. [Lancy's Blog](http://gracelancy.com/blog/archives/), 猿题库的iOS研发工程师蓝晨钰de的博客 
 7. [iOS Dev Weekly](https://iosdevweekly.com/issues/254), 每周五更新的关于iOS的技术文章 
+8. [aaaron7](http://www.jianshu.com/users/9efd08855d3a/latest_articles), 不知道真实身份的王大神, 专注于 Swift 与 Functional
 
 ## iOS Reverse Engineering:
 1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
