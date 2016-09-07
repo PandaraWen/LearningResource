@@ -11,6 +11,7 @@
 7. [iOS Dev Weekly](https://iosdevweekly.com/issues/254), 每周五更新的关于iOS的技术文章 
 8. [aaaron7](http://www.jianshu.com/users/9efd08855d3a/latest_articles), 不知道真实身份的王大神, 专注于 Swift 与 Functional
 9. [Swift 文章精选](https://github.com/ipader/SwiftGuide/blob/master/Featured-Articles.md), github 上关于 Swift 文章的汇聚
+10. [Thinking inside a large box](http://blog.benjamin-encz.de/), ReSwift 的作者(之一吧)的个人博客
 
 ## iOS Reverse Engineering:
 1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
