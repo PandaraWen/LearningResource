@@ -2,6 +2,7 @@
 -------------
 ## Documents:
 1. [Apple API Reference](https://developer.apple.com/reference), 多看多读多练, 总是好的
+2. [Guides and Sample Code](https://developer.apple.com/library/prerelease/content/navigation/), 多看多读多练, 总是好的
 
 ## Tech Blogs:
 0. [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/), 100个国外 iOS Blog
