@@ -1,5 +1,8 @@
 # iOSResource
 -------------
+## Documents:
+1. [Apple API Reference](https://developer.apple.com/reference), 多看多读多练, 总是好的
+
 ## Tech Blogs:
 0. [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/), 100个国外 iOS Blog
 1. [100mango/zen](https://github.com/100mango/zen), 微信, swiftGG, Unicon 的技术大牛, 技术博客
