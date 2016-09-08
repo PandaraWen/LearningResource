@@ -15,14 +15,14 @@
 11. [Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html), 田伟宇的博客, 关于应用架构的一系列文章
 12. [bang's blog](http://blog.cnbang.net/), bang, 现在(20160907)在腾讯负责微信读书, JSPath 作者，牛逼闪闪的华师师兄
 
-## iOS Reverse Engineering:
-1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
-2. [iPhone Wiki](https://www.theiphonewiki.com), 可以了解到比较底层的系统知识
-
 ## Awesome Open-source Projects:
 0. [UIKit Implement](https://github.com/apple/swift/blob/master/stdlib/public/SDK/UIKit/UIKit.swift), Apple 对 Swift 的开源, 链接是 UIKit, 一生推啊
 1. [Coding-iPad](https://coding.net/u/coding/p/Coding-iPad/git), Coding 的官方 iPad 客户端
 2. [TSWeChat](https://github.com/hilen/TSWeChat), 用 Swift 编写的第三方微信客户端
+
+## iOS Reverse Engineering:
+1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
+2. [iPhone Wiki](https://www.theiphonewiki.com), 可以了解到比较底层的系统知识
 
 ## Awesome Things:
 1. [1Story](http://www.one-story.cn/nazopuzzle/nazo-1.html), 奇思妙想解密过关类游戏
