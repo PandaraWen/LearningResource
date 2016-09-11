@@ -18,6 +18,7 @@
 10. [Thinking inside a large box](http://blog.benjamin-encz.de/), ReSwift 的作者(之一吧)的个人博客
 11. [Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html), 田伟宇的博客, 关于应用架构的一系列文章
 12. [bang's blog](http://blog.cnbang.net/), bang, 现在(20160907)在腾讯负责微信读书, JSPath 作者，牛逼闪闪的华师师兄
+13. [Awesome-Swift](https://github.com/Wolg/awesome-swift), 很多 SWift 相关的学习资源
 
 ## Awesome Open-source Projects:
 0. [UIKit Implement](https://github.com/apple/swift/blob/master/stdlib/public/SDK/UIKit/UIKit.swift), Apple 对 Swift 的开源, 链接是 UIKit, 一生推啊
