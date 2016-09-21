@@ -20,6 +20,11 @@
 12. [bang's blog](http://blog.cnbang.net/), bang, 现在(20160907)在腾讯负责微信读书, JSPath 作者，牛逼闪闪的华师师兄
 13. [Awesome-Swift](https://github.com/Wolg/awesome-swift), 很多 SWift 相关的学习资源
 
+## iOS Revelant
+### Grand Central Dispatch
+1. [Grand Central Dispatch In-Depth: Part 1/2](https://www.raywenderlich.com/60749/grand-central-dispatch-in-depth-part-1), 深入理解 GCD, 第一部分
+2. [Grand Central Dispatch In-Depth: Part 2/2](https://www.raywenderlich.com/63338/grand-central-dispatch-in-depth-part-2), 深入理解 GCD, 第二部分
+
 ## Awesome Open-source Projects:
 0. [UIKit Implement](https://github.com/apple/swift/blob/master/stdlib/public/SDK/UIKit/UIKit.swift), Apple 对 Swift 的开源, 链接是 UIKit, 一生推啊
 1. [Coding-iPad](https://coding.net/u/coding/p/Coding-iPad/git), Coding 的官方 iPad 客户端
