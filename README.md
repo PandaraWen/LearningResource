@@ -19,6 +19,7 @@
 11. [Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html), 田伟宇的博客, 关于应用架构的一系列文章
 12. [bang's blog](http://blog.cnbang.net/), bang, 现在(20160907)在腾讯负责微信读书, JSPath 作者，牛逼闪闪的华师师兄
 13. [Awesome-Swift](https://github.com/Wolg/awesome-swift), 很多 SWift 相关的学习资源
+14. [SwiftWatch](http://swiftwatch.net/), 针对 Swift 的信息聚合网站
 
 ## iOS Revelant
 ### Grand Central Dispatch
