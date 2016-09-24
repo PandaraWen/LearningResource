@@ -26,6 +26,9 @@
 1. [Grand Central Dispatch In-Depth: Part 1/2](https://www.raywenderlich.com/60749/grand-central-dispatch-in-depth-part-1), 深入理解 GCD, 第一部分
 2. [Grand Central Dispatch In-Depth: Part 2/2](https://www.raywenderlich.com/63338/grand-central-dispatch-in-depth-part-2), 深入理解 GCD, 第二部分
 
+## Improve Your Mind
+1. [Darius Foroux's Blog](http://dariusforoux.com/createsomething/), 连续跨行业创业者，博客文章较多专注于内心思想
+
 ## Awesome Open-source Projects:
 0. [UIKit Implement](https://github.com/apple/swift/blob/master/stdlib/public/SDK/UIKit/UIKit.swift), Apple 对 Swift 的开源, 链接是 UIKit, 一生推啊
 1. [Coding-iPad](https://coding.net/u/coding/p/Coding-iPad/git), Coding 的官方 iPad 客户端
