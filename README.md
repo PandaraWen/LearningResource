@@ -21,6 +21,9 @@
 13. [Awesome-Swift](https://github.com/Wolg/awesome-swift), 很多 SWift 相关的学习资源
 14. [SwiftWatch](http://swiftwatch.net/), 针对 Swift 的信息聚合网站
 
+## Online Education
+1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
+
 ## iOS Revelant
 ### Grand Central Dispatch
 1. [Grand Central Dispatch In-Depth: Part 1/2](https://www.raywenderlich.com/60749/grand-central-dispatch-in-depth-part-1), 深入理解 GCD, 第一部分
