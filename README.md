@@ -20,6 +20,7 @@
 12. [bang's blog](http://blog.cnbang.net/), bang, 现在(20160907)在腾讯负责微信读书, JSPath 作者，牛逼闪闪的华师师兄
 13. [Awesome-Swift](https://github.com/Wolg/awesome-swift), 很多 SWift 相关的学习资源
 14. [SwiftWatch](http://swiftwatch.net/), 针对 Swift 的信息聚合网站
+15. [Minmin.Sun](http://depthlove.github.io/2015/09/16/build-X264-library-for-iOS-platform/), 音视频牛人
 
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
