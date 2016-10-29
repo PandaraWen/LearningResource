@@ -25,6 +25,7 @@
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
 2. [泊学网](https://boxueio.com/), 服务于一线开发者的前沿技术视频
+3. [知笔墨](http://zhibimo.com/books/xiaolai/ji-ji-du-hui-you-de--xie-gei-nv-sheng-de-xing-gao-chao-zhi-nan), 里面有不少李笑来的书籍
 
 ## iOS Revelant
 ### Grand Central Dispatch
