@@ -21,6 +21,7 @@
 13. [Awesome-Swift](https://github.com/Wolg/awesome-swift), 很多 SWift 相关的学习资源
 14. [SwiftWatch](http://swiftwatch.net/), 针对 Swift 的信息聚合网站
 15. [Minmin.Sun](http://depthlove.github.io/2015/09/16/build-X264-library-for-iOS-platform/), 音视频牛人
+16. [Sunnyxx](http://blog.sunnyxx.com/), 前百度后滴滴技术牛人
 
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
