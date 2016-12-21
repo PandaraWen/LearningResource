@@ -53,3 +53,11 @@
 
 ## Blog about Thinking and Mind
 1. [编程随想](https://program-think.blogspot.com/), 看点别样社会现实
+
+# 深度学习
+------------
+## 网红:
+1. [陈利人](http://weibo.com/lirenchen?refer_flag=1001030101_&is_all=1)
+
+## Artical
+1. [Deep Learning Book中文第一章 深度学习概述](https://mp.weixin.qq.com/s/xQwd66RBHf0gD9TF2ydCeA)
