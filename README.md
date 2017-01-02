@@ -44,6 +44,7 @@
 2. [TSWeChat](https://github.com/hilen/TSWeChat), 用 Swift 编写的第三方微信客户端
 3. [Telegram](https://github.com/overtake/telegram), Telegram Messenger for iOS
 4. [Telegram](https://github.com/overtake/telegram), Source code of Telegram for macOS
+5. [Kickstarter](https://github.com/kickstarter/ios-oss), Kickstarter for iOS
 
 ## iOS Reverse Engineering:
 1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
