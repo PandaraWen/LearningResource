@@ -42,6 +42,8 @@
 0. [UIKit Implement](https://github.com/apple/swift/blob/master/stdlib/public/SDK/UIKit/UIKit.swift), Apple 对 Swift 的开源, 链接是 UIKit, 一生推啊
 1. [Coding-iPad](https://coding.net/u/coding/p/Coding-iPad/git), Coding 的官方 iPad 客户端
 2. [TSWeChat](https://github.com/hilen/TSWeChat), 用 Swift 编写的第三方微信客户端
+3. [Telegram](https://github.com/overtake/telegram), Telegram Messenger for iOS
+4. [Telegram](https://github.com/overtake/telegram), Source code of Telegram for macOS
 
 ## iOS Reverse Engineering:
 1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
