@@ -23,6 +23,7 @@
 15. [Minmin.Sun](http://depthlove.github.io/2015/09/16/build-X264-library-for-iOS-platform/), 音视频牛人
 16. [Sunnyxx](http://blog.sunnyxx.com/), 前百度后滴滴技术牛人
 17. [美团点评技术团队](http://tech.meituan.com/)
+18. [WeRead](http://wereadteam.github.io/), 微信读书技术团队
 
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
