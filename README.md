@@ -46,6 +46,7 @@
 3. [Telegram](https://github.com/overtake/telegram), Telegram Messenger for iOS
 4. [Telegram](https://github.com/overtake/telegram), Source code of Telegram for macOS
 5. [Kickstarter](https://github.com/kickstarter/ios-oss), Kickstarter for iOS
+6. [OpensourceApple](https://github.com/opensource-apple), 对 AppleOpenSource 资源的搬运
 
 ## iOS Reverse Engineering:
 1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
