@@ -24,7 +24,7 @@
 16. [Sunnyxx](http://blog.sunnyxx.com/), 前百度后滴滴技术牛人
 17. [美团点评技术团队](http://tech.meituan.com/)
 18. [WeRead](http://wereadteam.github.io/), 微信读书技术团队
-
+19. [MrPeak 的杂货铺](http://mrpeak.cn/), 履历未明
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
 2. [泊学网](https://boxueio.com/), 服务于一线开发者的前沿技术视频
