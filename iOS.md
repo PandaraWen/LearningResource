@@ -35,6 +35,7 @@
 ### Grand Central Dispatch
 1. [Grand Central Dispatch In-Depth: Part 1/2](https://www.raywenderlich.com/60749/grand-central-dispatch-in-depth-part-1), 深入理解 GCD, 第一部分
 2. [Grand Central Dispatch In-Depth: Part 2/2](https://www.raywenderlich.com/63338/grand-central-dispatch-in-depth-part-2), 深入理解 GCD, 第二部分
+3. [iOS CoreAnimation 高级编程技术](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/5-%E5%8F%98%E6%8D%A2/%E5%8F%98%E6%8D%A2.md)
 
 ## Improve Your Mind
 1. [Darius Foroux's Blog](http://dariusforoux.com/createsomething/), 连续跨行业创业者，博客文章较多专注于内心思想
