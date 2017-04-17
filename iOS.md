@@ -25,6 +25,8 @@
 17. [美团点评技术团队](http://tech.meituan.com/)
 18. [WeRead](http://wereadteam.github.io/), 微信读书技术团队
 19. [MrPeak 的杂货铺](http://mrpeak.cn/), 履历未明
+20. [Abbshr](https://github.com/abbshr/abbshr.github.io/issues), UPYun 的工程师，博客大多 JS 以及网络相关
+
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
 2. [泊学网](https://boxueio.com/), 服务于一线开发者的前沿技术视频
