@@ -27,6 +27,7 @@
 19. [MrPeak 的杂货铺](http://mrpeak.cn/), 履历未明
 20. [Abbshr](https://github.com/abbshr/abbshr.github.io/issues), UPYun 的工程师，博客大多 JS 以及网络相关
 21. [茶茶的小屋](https://www.valiantcat.cn/)，链家网 95 后 iOS 程序员
+22. [腾云阁](https://www.qcloud.com/community)，腾讯云技术团队
 
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
