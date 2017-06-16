@@ -69,6 +69,7 @@
 ## Awesome Book:
 1. [编程随想收藏的书籍](https://github.com/programthink/books), 编程随想收藏的大量有趣电子版书籍，中国政治类占比较大
 2. [iOS Core Animation: Advanced Techniques](https://www.gitbook.com/book/zsisme/ios-/details)
+3. [给国人看的英语学习书](https://byoungd.gitbooks.io/english-level-up-tips-for-chinese/content/part-1/1-understanding.html)
 
 ## Blog about Thinking and Mind
 1. [编程随想](https://program-think.blogspot.com/), 看点别样社会现实
