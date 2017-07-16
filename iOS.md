@@ -29,6 +29,7 @@
 21. [茶茶的小屋](https://www.valiantcat.cn/)，链家网 95 后 iOS 程序员
 22. [腾云阁](https://www.qcloud.com/community)，腾讯云技术团队
 23. [GitBook](https://git-scm.com/book/zh/v2)，相当详尽的 Git 手册
+24. [小鱼周凌宇のCODE_HOME](http://zhoulingyu.com/)，一名萌妹纸 iOS Dev
 
 ## Online Education
 1. [优达学城](http://cn.udacity.com/), 以动手做项目为导向的在线学院
