@@ -59,6 +59,7 @@
 9. [SwiftAlgorithm](https://github.com/raywenderlich/swift-algorithm-club), Bunch of algorithm and structure implementation
 10. [loose-leaf](https://github.com/adamwulf/loose-leaf), 功能丰富的笔记应用
 11. [MotionBook](https://github.com/younatics/MotionBook), 动画演示
+12. [Wire](https://github.com/wireapp/wire-ios)
 
 ## iOS Reverse Engineering:
 1. [Logos Wiki](http://iphonedevwiki.net/index.php/Logos), Logos 语言百科
